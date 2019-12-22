@@ -1,5 +1,6 @@
 # Hasura
-Made as part of the testing process for Hasura
+Made as part of the testing process for Hasura.
+Both codes have been written in python3.
 
 Multiples (Qustion 1)
 1. Run the code by executing `python3 multiples.py`
